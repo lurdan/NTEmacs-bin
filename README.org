@@ -1,0 +1,21 @@
+* Binaries called from NTEmacs64
+
+** cmigemo
+fetched from: http://www.kaoriya.net/software/cmigemo/
+
+** eblook
+fetched from: http://green.ribbon.to/~ikazuhiro/lookup/lookup.html
+
+** mupdf
+fetched from: http://mupdf.com/
+
+** pandoc
+fetched from: https://github.com/jgm/pandoc
+** rt
+fetched from: https://github.com/bestpractical/rt
+packed with PAR::Packer
+
+http://requesttracker.wikia.com/wiki/CLI
+
+** win7appid
+fetched from: https://code.google.com/p/win7appid/
