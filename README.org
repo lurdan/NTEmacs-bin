@@ -19,3 +19,5 @@ http://requesttracker.wikia.com/wiki/CLI
 
 ** win7appid
 fetched from: https://code.google.com/p/win7appid/
+** fakecygpty
+fetched from: https://github.com/trueroad/fakecygpty
